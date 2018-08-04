@@ -1,2 +1,2 @@
 # Dictionary
-turn a mac dictionary into a text file with each word and its translations separated by commas. Simply run 'python Dictionary.py'
+turn a mac dictionary into a text file with each word and its translations separated by commas. Simply run 'python dictionary.py'
